@@ -12,3 +12,5 @@ Third commit for feature branch 1
 
 Fourth commit for feature branch 1 
 
+Another hotfix change
+
